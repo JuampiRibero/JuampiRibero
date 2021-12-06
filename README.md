@@ -1,4 +1,4 @@
-### Hi! I'm Juan Pablo 👋
+<h1>Hi! I'm Juan Pablo 👋</h1>
 
 ---
 
@@ -9,9 +9,7 @@
 - 🌱 I’m currently learning **React Js**.
 - 🔭 I’m currently working on **an e-commerce website with React Js**.
 - 👀 I’m interested in **FrontEnd Development**.
-- 💬 Ask me about ...
 - 📫 How to reach me: [Gmail](mailto:juampiribero@gmail.com).
-- ⚡ Fun fact: ...
 
 <h3>Connect with me:</h3>
 <p>
