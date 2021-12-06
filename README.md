@@ -1,8 +1,6 @@
 <h1>Hi! I'm Juan Pablo 👋</h1>
 
----
-
-### FrontEnd Developer Trainee 💻 
+<h2>FrontEnd Developer Trainee 💻</h2>
 
 ---
 
