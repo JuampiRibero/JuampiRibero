@@ -1,4 +1,4 @@
-<h1 style="text-decoration: none">Hi! I'm Juan Pablo 👋</h1>
+<h1 style="text-decoration: underline">Hi! I'm Juan Pablo 👋</h1>
 
 <h2>FrontEnd Developer Trainee 💻</h2>
 
