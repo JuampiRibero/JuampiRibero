@@ -1,6 +1,6 @@
-<h1 style="text-decoration: underline">Hi! I'm Juan Pablo 👋</h1>
+## Hi! I'm Juan Pablo 👋
 
-<h2>FrontEnd Developer Trainee 💻</h2>
+## FrontEnd Developer Trainee 💻
 
 - 🌱 I’m currently learning **React Js**.
 - 🔭 I’m currently working on **an e-commerce website with React Js**.
