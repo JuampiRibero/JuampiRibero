@@ -1,9 +1,6 @@
 <h1>Hi! I'm Juan Pablo 👋</h1>
-
 <h2>FrontEnd Developer Trainee 💻</h2>
-
 ---
-
 - 🌱 I’m currently learning **React Js**.
 - 🔭 I’m currently working on **an e-commerce website with React Js**.
 - 👀 I’m interested in **FrontEnd Development**.
