@@ -1,10 +1,11 @@
 <h1>Hi! I'm Juan Pablo 👋</h1>
+
 <h2>FrontEnd Developer Trainee 💻</h2>
 
 - 🌱 I’m currently learning **React Js**.
 - 🔭 I’m currently working on **an e-commerce website with React Js**.
 - 👀 I’m interested in **FrontEnd Development**.
-- 📫 How to reach me: [Gmail](mailto:juampiribero@gmail.com).
+- 📫 How to reach me **juampiribero@gmail.com**.
 
 <h3>Connect with me:</h3>
 <p>
