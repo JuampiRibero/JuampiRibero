@@ -1,4 +1,4 @@
-<h2 align="center" text-decoration="none">Hi! 👋 I'm Juan Pablo</h2>
+### align="center" text-decoration="none">Hi! 👋 I'm Juan Pablo
 <h3 align="center">Trainee FrontEnd Developer 💻</h3>
 
 - 🌱 I’m currently learning **React Js**.
