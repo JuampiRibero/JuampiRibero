@@ -1,4 +1,4 @@
-<h1 border-style="none" align="center">Hi! 👋 I'm Juan Pablo</h1>
+<h1 border-bottom="none !important" align="center">Hi! 👋 I'm Juan Pablo</h1>
 ## Trainee FrontEnd Developer 💻
 
 - 🌱 I’m currently learning **React Js**.
