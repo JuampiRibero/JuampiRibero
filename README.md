@@ -1,5 +1,5 @@
-### Hi! 👋 I'm Juan Pablo
-## Trainee FrontEnd Developer 💻
+## Hi! 👋 I'm Juan Pablo
+### Trainee FrontEnd Developer 💻
 
 - 🌱 I’m currently learning **React Js**.
 - 🔭 I’m currently working on **an e-commerce website with React Js**.
