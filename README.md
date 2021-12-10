@@ -1,5 +1,5 @@
-<h1 style="text-align:center">Hi! 👋 I'm Juan Pablo</h1>
-<h2>Trainee FrontEnd Developer 💻</h2>
+<h1 align="center">Hi! 👋 I'm Juan Pablo</h1>
+<h2 align="center">Trainee FrontEnd Developer 💻</h2>
 
 - 🌱 I’m currently learning **React Js**.
 - 🔭 I’m currently working on **an e-commerce website with React Js**.
