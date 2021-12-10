@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Juan Pablo
+<h1 border-bottom="none" align="center">Hi! 👋 I'm Juan Pablo</h1>
 ## Trainee FrontEnd Developer 💻
 
 - 🌱 I’m currently learning **React Js**.
