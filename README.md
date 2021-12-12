@@ -19,6 +19,6 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
 <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
-<a href="https://www.w3schools.com/jquERy/default.asp" target="_blank"> <img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" alt="javascript" width="30" height="30"/></a>
+<a href="https://jquery.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" alt="javascript" width="30" height="30"/></a>
 <a href="https://es.reactjs.org/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/> </a>         
 </p>
