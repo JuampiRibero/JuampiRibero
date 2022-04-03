@@ -21,5 +21,5 @@
 <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
 <a href="https://jquery.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" alt="javascript" width="30" height="30"/></a>
 <a href="https://es.reactjs.org/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/></a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/firebase/images/lockup.svg" alt="firebase" width="30" height="30"/></a>  
+<a href="https://firebase.google.com/" target="_blank"> <img src="http://www.w3.org/2000/svg" alt="firebase" width="30" height="30"/></a>  
 </p>
