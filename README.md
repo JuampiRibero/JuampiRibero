@@ -1,8 +1,8 @@
 <h1 border-bottom="none" align="center">Hi! 👋 I'm Juan Pablo</h1>
-<h3 align="center">Trainee FrontEnd Developer 💻</h3>
+<h3 align="center">Junior Front End Developer 💻</h3>
 
-- 🌱 I’m currently learning **React Js**.
-- 🔭 I’m currently working on **an e-commerce website with React Js**.
+- 🌱 I’m currently learning **Python** and **Back End Development**.
+- 🔭 I’m currently working on **a website with React Js**.
 - 👀 I’m interested in **FrontEnd Development**.
 - 📫 How to reach me **juampiribero@gmail.com**.
 
