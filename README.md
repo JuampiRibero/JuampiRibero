@@ -21,5 +21,7 @@
 <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
 <a href="https://jquery.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" alt="javascript" width="30" height="30"/></a>
 <a href="https://es.reactjs.org/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/></a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="firebase" width="30" height="30"/></a>  
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="firebase" width="30" height="30"/></a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008" alt="python" width="30" height="30"/></a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="firebase" width="30" height="30"/></a>
 </p>
