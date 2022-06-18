@@ -23,4 +23,5 @@
 <a href="https://es.reactjs.org/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/></a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="firebase" width="30" height="30"/></a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" alt="python" width="30" height="30"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F159%2F366%2Fpng-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fes%2Fsearch%3Fq%3DDjango&tbnid=oSj4h9_z6Ypu1M&vet=12ahUKEwjwnu2tsLf4AhVlOLkGHfTuCnYQMygCegUIARC3AQ..i&docid=6rTNRxoRYz1f3M&w=360&h=360&q=django%20png&ved=2ahUKEwjwnu2tsLf4AhVlOLkGHfTuCnYQMygCegUIARC3AQ#imgrc=oSj4h9_z6Ypu1M&imgdii=r82VSMi7KUTaeM" alt="django" width="30" height="30"/></a>
 </p>
