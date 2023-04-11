@@ -1,9 +1,9 @@
 <h1 border-bottom="none" align="center">Hi! 👋 I'm Juan Pablo</h1>
-<h3 align="center">Junior Front End Developer 💻</h3>
+<h3 align="center">Junior Frontend Developer 💻</h3>
 
-- 🌱 I’m currently learning **Angular** and **Back End Development**.
+- 🌱 I’m currently learning **Angular** and **Backend Development**.
 - 🔭 I’m currently working on a freelance project of a **website with React Js**.
-- 👀 I’m interested in **FrontEnd Development**.
+- 👀 I’m interested in **Fronend Development**.
 - 📫 How to reach me **juampiribero@gmail.com**.
 
 <h3>Connect with me:</h3>
