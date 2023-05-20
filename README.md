@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular** and **Backend Development**.
 - 🔭 I’m currently working on a freelance project of a **website with React Js**.
-- 👀 I’m interested in **Fronend Development**.
+- 👀 I’m interested in **Frontend Development**.
 - 📫 How to reach me **juampiribero@gmail.com**.
 
 <h3>Connect with me:</h3>
