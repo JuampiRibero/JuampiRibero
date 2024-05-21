@@ -1,8 +1,8 @@
 <h1 border-bottom="none" align="center">Hi! 👋 I'm Juan Pablo</h1>
-<h3 align="center">Junior Frontend Developer 💻</h3>
+<h3 align="center">Frontend Developer 💻</h3>
 
-- 🌱 I'm currently enhancing my proficiency in **React Js**.
-- 🔭 I'm working on a freelance project of a **website with React Js**.
+- 🌱 I'm currently enhancing my proficiency in **React.js** and **Next.js**.
+- 🔭 I'm working on a freelance project of a **website with React.js**.
 - 👀 I'm interested in **Frontend Development**.
 - 📫 How to reach me **juampiribero@gmail.com**.
 
@@ -13,16 +13,18 @@
 
 <h3>Languages and Tools:</h3>
 <p>
-<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/></a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/></a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
-<a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
-<a href="https://jquery.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" alt="javascript" width="30" height="30"/></a>
-<a href="https://es.reactjs.org/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/></a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="firebase" width="30" height="30"/></a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" alt="python" width="30" height="30"/></a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30"/></a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="30" height="30"/></a>
+<a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/></a>
+<a href="https://jquery.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" alt="jQuery" width="30" height="30"/></a>
+<a href="https://es.reactjs.org/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="React.js" width="30" height="30"/></a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="30" height="30"/></a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="Firebase" width="30" height="30"/></a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" alt="Python" width="30" height="30"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" alt="django" width="50" height="30"/></a>
-<a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angular" width="30" height="30"/></a>
+<a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular" width="30" height="30"/></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
 </p>
