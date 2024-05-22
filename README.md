@@ -4,8 +4,7 @@
 - 🌱 I'm currently enhancing my proficiency in **React.js** and learning **Next.js** and **TypeScript**.
 - 🔭 I'm working on a freelance project of a **website with React.js**.
 - 👀 I'm interested in **Frontend Development**.
-- 📫 Reach me at **juampiribero@gmail.com** or just take a look at my <a href="https://riberomazzoniportfolio.netlify.app/" style="text-decoration: none" target="_blank">**portfolio**</a>
-</p>.
+- 📫 Reach me at **juampiribero@gmail.com** or just take a look at my <a href="https://riberomazzoniportfolio.netlify.app/" style="text-decoration: none; color: black" target="_blank">**portfolio**</a>
 
 <h3>Connect with me:</h3>
 <p>
