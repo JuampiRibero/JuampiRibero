@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer 💻</h3>
 
 - 🌱 I'm currently enhancing my proficiency in **React.js** and learning **Next.js** and **TypeScript**.
-- 🔭 I'm working on a freelance project of a **website with React.js**.
+- 🔭 I'm working on a freelance project of a website with **React.js** and **Next.js**.
 - 👀 I'm interested in **Frontend Development**.
 - 📫 Reach me at **juampiribero@gmail.com** or just take a look at my <a href="https://riberomazzoniportfolio.netlify.app/" target="_blank">**portfolio**</a>
 
